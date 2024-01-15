@@ -28,7 +28,7 @@ function App() {
               <Link to="user/page3" class="nav-link active"aria-current="page">Projects</Link>
               </li>
               <li class="nav-item">
-                <a class="nav-link active"aria-current="page">Interests</a>
+                <a class="nav-link active"aria-current="page">Interest</a>
               </li>
              
             </ul>
