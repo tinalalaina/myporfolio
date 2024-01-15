@@ -12,7 +12,7 @@ function App() {
       <nav class="navbar navbar-expand-lg navbar-dark" style={{backgroundColor:'rgba(169,169,169,0.5)'}} >
         
         <div class="container-fluid">
-          <a class="navbar-brand" href="#"><h1>TL Raky.</h1></a>
+          <a class="navbar-brand" href="#"><h1>TLRaky.</h1></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
